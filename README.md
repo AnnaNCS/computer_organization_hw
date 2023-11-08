@@ -1,5 +1,6 @@
-EXE Circtuit
+Computer Organization Project, Fall 2022: EXE Circuit
 
-In order to run the program, run the following file in your Logisim application:
-
-HWproject.circ
+Clone the repository and open the following file in your Logisim application:
+‘‘‘
+  HWproject.circ
+‘‘‘
